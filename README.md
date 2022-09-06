@@ -15,6 +15,3 @@ conection to the server. The running server file will automatically reboot the s
 and wait for a new connection. Once a connection is established, the client also has
 the option to LOG_IN, VIEW_REGISTRATION (once logged in), and DISCONNECT (severing the
 connection to the server.
- 
-Attached is an example Wireshark packet capture and screenshot of the client using the
-VIEW_REGISTRATION command and the server responding with the encrypted user data log.
